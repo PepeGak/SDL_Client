@@ -1,0 +1,5 @@
+#define _CLIENT_DEBUG_
+#define WINDOW_NAME "SDL_Client"
+#define WINDOW_WIDTH 640
+#define WINDOW_HEIGHT 480
+#define MAX_LEN_STR 59
